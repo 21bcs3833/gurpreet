@@ -1,3 +1,9 @@
+
+
+Project: Create a Token
+
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
@@ -14,6 +20,9 @@ pragma solidity 0.8.18;
     5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned.
 */
+
+
+\*here is the code*/
 
 contract MyToken {
 
@@ -39,3 +48,12 @@ function burn(address _address , uint _value) public{
 
 }
 }
+
+
+
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
+
+
+
